@@ -38,14 +38,15 @@ Laravel Log Analyzer is an intelligent tool that automatically parses your Larav
 
 ### Dashboard Overview
 
-<img src="https://i.ibb.co/Qvhs7ctN/Screenshot-from-2025-06-13-17-11-38.png" alt="Screenshot-from-2025-06-13-17-11-38" border="0">
+![Screenshot from 2025-06-13 17-11-38](https://github.com/user-attachments/assets/ae068ead-27c3-424c-9af1-eefb456f8bb2)
+
 
 ### AI Error Analysis
-<img src="https://i.ibb.co/Y7sT74Pw/Screenshot-from-2025-06-13-17-19-31.png" alt="Screenshot-from-2025-06-13-17-19-31" border="0">
+![Screenshot from 2025-06-13 17-19-31](https://github.com/user-attachments/assets/7b06f30a-30e0-4210-bb82-623f17788837)
 
 
 ### Error Patterns
-<img src="https://i.ibb.co/nMmzJ9p4/Screenshot-from-2025-06-13-17-18-17.png" alt="Screenshot-from-2025-06-13-17-18-17" border="0">
+![Screenshot from 2025-06-13 17-18-17](https://github.com/user-attachments/assets/751d50d3-c927-421d-a83d-c997c7370a7c)
 
 </div>
 
